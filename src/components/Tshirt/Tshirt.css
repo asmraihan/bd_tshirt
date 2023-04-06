@@ -1,0 +1,13 @@
+.tshirt {
+    margin-top: 30px;
+    border: 1px solid blue;
+    border-radius: 15px;
+    padding: 10px;
+}
+.tshirt img{
+    height: 250px;
+    border-radius: 15px;
+}
+.tshirt button{
+    background-color: #fff;
+}
